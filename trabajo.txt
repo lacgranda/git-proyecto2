@@ -7,8 +7,8 @@ miércoles
 jueves
 viernes
 
-estaciones
-verano
-primavera
-otoño
-invierno
+ESTACIONES
+1 verano
+2 primavera
+3 otoño
+4 invierno
