@@ -6,3 +6,7 @@ martes
 miércoles
 jueves
 viernes
+
+estaciones
+verano
+primavera
