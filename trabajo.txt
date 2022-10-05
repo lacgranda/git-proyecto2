@@ -1,1 +1,8 @@
 final
+
+dias de la semana
+lunes
+martes
+miércoles
+jueves
+viernes
