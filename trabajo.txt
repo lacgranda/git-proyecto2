@@ -1,6 +1,6 @@
 final
 
-dias de la semana
+DIAS DE LA SEMANA
 lunes
 martes
 miércoles
